@@ -39,7 +39,38 @@ Bagaimana saya menemukannya ya follow stream lait-liat aja yang lain.
 Cara mendecodenya saya seperti ini
 ![image](https://github.com/user-attachments/assets/b2aee3ea-fca7-4c88-8e61-2ac3f29d44f8)
 
+#### Pegawai Negeri Sebelah
+Pada salah satu stream saya menemukan ini :
+![image](https://github.com/user-attachments/assets/042213f2-ff28-415d-9f02-70d59a30875e)
+Pada stream tersebut semua informasi(passwd,Jabatan,username awal,password akhir) yang ditanyakan oleh soal sudah terjawab semua sehingga saya sepertinya tidak perlu mensreeshootnya satu satu karena memakan waktu
+Beginilah terminalnya :
+![image](https://github.com/user-attachments/assets/6b97126b-7e3a-483b-a007-8aab87e087c5)
 
+#### Malicious Code
+Disini ditanyakan berapa kali attacker melakukan directory listing yang artinya kita menghitung berapa kali traffic GET muncul terlihat terdapat 52
+![image](https://github.com/user-attachments/assets/083d716e-ee48-4737-82fb-f3630152583d)
+Lalu untuk endpoint apa untuk login ya tentu saja bisa kita lihat pada stream yang attacker bruteforce pada login page, terdapat endpoint /index.php
+![image](https://github.com/user-attachments/assets/7906fb43-fb63-4253-9826-7c54d6ec2f0f)
+Lalu untuk pertanyaan berapa kali attacker melakukan bruteforce, kita bisa menghitung berapa stream yang terjadi setelah attacker melakukan data listing dan sebelum attacker masuk ke dalam sistem. Menghitungnya begini, stream pada email jarkom adalah 207 maka stream setelah itu tidak dihitung, lalu dikurangi dengan stream sebelum attacker melakukan bruteforce hasilnya adalah 153 
+Ini adalah bukti stream email jarkom :
+![image](https://github.com/user-attachments/assets/c3d032b6-f9bb-4752-963e-77cbcb6fc121)
+
+Lalu untuk pertanyaan dari attacker saat ditranslate ChatGPT adalah "apa warma favorit pencbuat challenge his tweaten ter)"
+![image](https://github.com/user-attachments/assets/a8e0c10d-49a3-4a9d-a665-d3b6d0a85d06)
+Ya! mas nevarre suka warna merah tentu saya tahu.
+Begini tampilan terminal saya :
+![image](https://github.com/user-attachments/assets/9b0ad277-ccbb-4fc2-acfb-2f2850fc4738)
+Ya banyak sekali bruteforce takmuat dalam satu foto saja
+
+#### Corporate breach
+![image](https://github.com/user-attachments/assets/41bb3c20-e92d-4424-af23-c659ac707c56)
+Soal ini sebenarnya adlah soal sebelumnya dari Malicious Code jadi tentu saya sudah mengerjakan corporate breach terlebih dahulu, bisa dilihat saya menemukan username jarkom di foto write-up pada malicius code sehingga saaya tidak perlu menguploadnya lagi
+
+#### Surprise
+
+
+
+#### 
 
 
 

@@ -1,7 +1,8 @@
 # jarkom-modul-1-IT42-2024
 
-### Langsung saja ini adalah write-up nya
-
+# Langsung saja ini adalah write-up nya
+# Naufal Syafi' Hakim
+# 5027231022
 ## Rizzset 
 Begini kira-kira saya mendapatkan flag
 ![image](https://github.com/user-attachments/assets/15543682-b57f-4941-9dcb-453774d53ae3)
